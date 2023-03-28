@@ -1,4 +1,9 @@
 primera linea
 segunda linea
+<<<<<<< HEAD
 mas lineas diferentes
 mas lineas diferentes
+=======
+mas lineas
+mas lineas
+>>>>>>> miramaaaron
